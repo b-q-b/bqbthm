@@ -20,5 +20,5 @@ body {
 }
 
 .bqb_header {
-    color: red;
+    color: red !important;
 }
