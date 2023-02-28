@@ -15,10 +15,6 @@ Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, feature
 */
 
 
-body {
+.bqb_menu_nav {
     background-color: blue;
-}
-
-.bqb_header {
-    color: red !important;
 }
